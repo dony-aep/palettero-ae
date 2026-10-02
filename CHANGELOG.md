@@ -29,3 +29,4 @@ pequeñas: cabe en una franja fina encima del visor y sigue siendo útil a ese t
 - Ventana de información con la versión, los atajos de cada sistema y el enlace a
   donyaep.vercel.app, que también abre la marca «Made by dony.» del panel.
 - Probado en After Effects 2026 sobre Windows y en After Effects 2022 sobre macOS.
+- Licencia: gratis para uso personal y comercial, distribuido solo compilado.

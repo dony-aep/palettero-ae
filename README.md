@@ -72,3 +72,8 @@ versión nueva.
 ## Cambios
 
 Ver [CHANGELOG.md](CHANGELOG.md).
+
+## Licencia
+
+Gratis, para uso personal y comercial. Se distribuye solo compilado: el código fuente no se
+licencia. Detalles en [LICENSE.md](LICENSE.md).
