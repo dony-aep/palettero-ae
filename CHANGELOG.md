@@ -30,3 +30,6 @@ pequeñas: cabe en una franja fina encima del visor y sigue siendo útil a ese t
   donyaep.vercel.app, que también abre la marca «Made by dony.» del panel.
 - Probado en After Effects 2026 sobre Windows y en After Effects 2022 sobre macOS.
 - Licencia: gratis para uso personal y comercial, distribuido solo compilado.
+
+[Sin publicar]: https://github.com/dony-aep/palettero-ae/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/dony-aep/palettero-ae/releases/tag/v1.0.0
