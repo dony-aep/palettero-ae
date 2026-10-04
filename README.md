@@ -28,23 +28,27 @@ Write Files and Access Network** en las preferencias de **Scripting & Expression
 | Cambiar el color de una muestra | Click | Click |
 | Aplicar el color a la selección | Alt+click | Option+click |
 | Crear un sólido de ese color | Ctrl+click | Cmd+click |
+| Quitar esa muestra de la paleta | Shift+click | Shift+click |
 
 Aplicar el color cambia las propiedades de color seleccionadas o, si no hay ninguna, las capas
 de sólido, texto y los rellenos de forma seleccionados. El sólido nuevo se crea encima de la
 capa seleccionada. Las dos acciones ponen el HEX exacto, se deshacen con Ctrl+Z (Cmd+Z en Mac)
 y no tocan las capas bloqueadas.
 
-A la derecha de las muestras hay cuatro botones:
+A la derecha de las muestras hay cinco botones:
 
 - Triángulo: paleta siguiente. Con Alt (Option en Mac), la anterior.
 - Dado: genera una paleta aleatoria en «Aleatoria».
+- «+»: añade un color al final de la paleta, también con el panel como franja fina.
 - Ventanita: abre la franja flotante.
 - «i»: versión, atajos y enlace a la web.
 
-Al estirar el panel aparecen las opciones en dos grupos. El de la paleta tiene el desplegable
-para elegirla, Guardar como…, Renombrar… y Eliminar. El de los colores tiene Añadir color,
-Quitar color y Aleatoria. Si el panel es estrecho, los grupos bajan de fila en lugar de
-cortarse. Trae cinco paletas de partida.
+Al estirar el panel aparecen las opciones. Arriba, todas las paletas en filas, cada una con su
+nombre y sus colores; un click en una fila la activa. Cuanto más alto es el panel, más filas
+se ven, y si no caben todas aparece una barra para desplazarlas. Debajo van los botones en dos
+grupos. El de la paleta tiene Guardar como…, Renombrar… y Eliminar. El de los colores tiene
+Añadir color, Quitar color (quita la última muestra) y Aleatoria. Si el panel es estrecho, los
+grupos bajan de fila en lugar de cortarse. Trae cinco paletas de partida.
 
 ## El cuentagotas y la franja flotante
 
