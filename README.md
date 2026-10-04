@@ -1,6 +1,6 @@
 # Palettero
 
-![Palettero: la franja de muestras del panel con la paleta Básica](assets/portada.png)
+![Palettero: el panel con la paleta Básica activa y la galería de paletas debajo](assets/portada.png)
 
 Panel para After Effects con una fila de cuadrados de color. Se puede dejar como una franja
 fina encima del visor y sigue siendo útil a ese tamaño: los cuadrados se encogen para caber
