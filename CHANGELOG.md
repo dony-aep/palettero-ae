@@ -7,6 +7,16 @@ y este proyecto sigue el [Versionado Semántico](https://semver.org/lang/es/).
 
 ## [Sin publicar]
 
+## [1.2.0] - 2026-10-05
+
+### Añadido
+
+- Flecha de deshacer en la franja, junto al «+». Recupera un color quitado por error con
+  Shift+click y deshace también los demás cambios en las paletas: un color editado o añadido,
+  la paleta aleatoria anterior, una paleta eliminada, renombrada o guardada. Alt+click (Option
+  en Mac) rehace. El Ctrl+Z de After Effects no sirve para esto, porque las paletas no forman
+  parte del proyecto. Guarda hasta 30 pasos mientras After Effects está abierto.
+
 ## [1.1.0] - 2026-10-04
 
 ### Añadido
@@ -52,6 +62,7 @@ pequeñas: cabe en una franja fina encima del visor y sigue siendo útil a ese t
 - Probado en After Effects 2026 sobre Windows y en After Effects 2022 sobre macOS.
 - Licencia: gratis para uso personal y comercial, distribuido solo compilado.
 
-[Sin publicar]: https://github.com/dony-aep/palettero-ae/compare/v1.1.0...HEAD
+[Sin publicar]: https://github.com/dony-aep/palettero-ae/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/dony-aep/palettero-ae/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/dony-aep/palettero-ae/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/dony-aep/palettero-ae/releases/tag/v1.0.0

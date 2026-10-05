@@ -35,11 +35,15 @@ de sólido, texto y los rellenos de forma seleccionados. El sólido nuevo se cre
 capa seleccionada. Las dos acciones ponen el HEX exacto, se deshacen con Ctrl+Z (Cmd+Z en Mac)
 y no tocan las capas bloqueadas.
 
-A la derecha de las muestras hay cinco botones:
+A la derecha de las muestras hay seis botones:
 
 - Triángulo: paleta siguiente. Con Alt (Option en Mac), la anterior.
 - Dado: genera una paleta aleatoria en «Aleatoria».
 - «+»: añade un color al final de la paleta, también con el panel como franja fina.
+- Flecha curva: deshace el último cambio en las paletas, por ejemplo un color quitado por
+  error. Con Alt (Option en Mac), lo rehace. Al pasar el cursor dice qué va a deshacer. Guarda
+  hasta 30 pasos mientras After Effects está abierto. El Ctrl+Z de After Effects no deshace
+  estos cambios, porque las paletas no forman parte del proyecto.
 - Ventanita: abre la franja flotante.
 - «i»: versión, atajos y enlace a la web.
 
