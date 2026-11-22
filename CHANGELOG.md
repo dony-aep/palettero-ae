@@ -7,6 +7,22 @@ y este proyecto sigue el [Versionado Semántico](https://semver.org/lang/es/).
 
 ## [Sin publicar]
 
+## [1.3.0] - 2026-11-21
+
+### Cambiado
+
+- Click en una muestra y el botón «+» abren el selector de color de After Effects en lugar del
+  selector del sistema. Con su cuentagotas se toma un color de la composición, con el valor
+  exacto, o de cualquier punto de la pantalla, también de una imagen abierta en otro programa;
+  y tiene campo HEX. Funciona aunque no haya ninguna composición abierta. Cada color elegido
+  deja tres pasos en el historial de After Effects. Aceptar sin cambiar el color ya no añade
+  con «+» una copia del último.
+
+### Corregido
+
+- Alt+click y Ctrl+click (Cmd en Mac) ya no piden abrir una composición cuando hay una en el
+  visor pero el último click fue en otro panel, como Project.
+
 ## [1.2.0] - 2026-10-05
 
 ### Añadido
@@ -62,7 +78,8 @@ pequeñas: cabe en una franja fina encima del visor y sigue siendo útil a ese t
 - Probado en After Effects 2026 sobre Windows y en After Effects 2022 sobre macOS.
 - Licencia: gratis para uso personal y comercial, distribuido solo compilado.
 
-[Sin publicar]: https://github.com/dony-aep/palettero-ae/compare/v1.2.0...HEAD
+[Sin publicar]: https://github.com/dony-aep/palettero-ae/compare/v1.3.0...HEAD
+[1.3.0]: https://github.com/dony-aep/palettero-ae/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/dony-aep/palettero-ae/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/dony-aep/palettero-ae/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/dony-aep/palettero-ae/releases/tag/v1.0.0

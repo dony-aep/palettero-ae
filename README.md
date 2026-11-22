@@ -54,6 +54,22 @@ grupos. El de la paleta tiene Guardar como…, Renombrar… y Eliminar. El de lo
 Añadir color, Quitar color (quita la última muestra) y Aleatoria. Si el panel es estrecho, los
 grupos bajan de fila en lugar de cortarse. Trae cinco paletas de partida.
 
+## Elegir un color
+
+Click en una muestra, o en «+», abre el selector de color de After Effects, con su cuentagotas
+y su campo HEX. El cuentagotas lee la composición con el valor exacto, y también cualquier
+otro punto de la pantalla, como una imagen abierta en otro programa. Fuera del visor lee el
+color tal como se ve, que puede no coincidir del todo con el original.
+
+After Effects solo abre ese selector desde una propiedad de color. Por eso Palettero añade un
+null oculto a la composición activa, abre el selector sobre su Color Control y lo borra al
+cerrarlo. Si no hay ninguna composición abierta, crea una temporal y también la borra. Cada
+color elegido deja tres pasos en el historial de After Effects: Palettero Pick Setup, Change
+Value y Palettero Pick Cleanup. Para deshacer algo anterior con Ctrl+Z (Cmd+Z en Mac) hay que
+pasar por ellos.
+
+Aceptar el selector sin cambiar el color cuenta como cancelar.
+
 ## El cuentagotas y la franja flotante
 
 En macOS, el cuentagotas de Solid Settings y del selector de color lee las muestras del panel
